@@ -1,0 +1,4 @@
+name: HologramAPI
+version: '${project.version}'
+main: net.valunia.hologram.HologramAPI
+api-version: '1.20'

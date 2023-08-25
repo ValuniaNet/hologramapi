@@ -1,0 +1,4 @@
+name: example
+version: '${project.version}'
+main: net.valunia.example.Example
+api-version: '1.20'
